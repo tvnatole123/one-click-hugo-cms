@@ -1,5 +1,5 @@
 ---
-title: New Coffee from Starbicks
+title: New Coffee from Starbucks
 date: 2022-08-28T15:04:51.496Z
 description: This is a new exiting moment when we got a new coffee from Kenya.
 image: img/about-sustainable-farming.jpg
